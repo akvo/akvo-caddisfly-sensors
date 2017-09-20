@@ -12,5 +12,6 @@ Manual : in pdf & markdown format
 
 License
 Copyright (C) Stichting Akvo (Akvo Foundation)
+
 The software and the reference designs for the hardware are licensed under CC-BY-SA 3.0
 
